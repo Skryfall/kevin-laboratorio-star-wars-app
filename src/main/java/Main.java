@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -11,3 +12,12 @@ public class Main {
         return(logic.getData());
     }
 }
+=======
+public class Main {
+
+    public static void main(String[] args) {        
+        Interfaz interfaz = new Interfaz();
+        //interfaz.makeTable();
+    }
+}
+>>>>>>> master

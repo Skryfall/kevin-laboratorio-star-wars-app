@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 rootProject.name = 'bl'
+=======
+<<<<<<< HEAD
+rootProject.name = 'ui'
+=======
+include ':ui'
+include ':bl'
+>>>>>>> master
+>>>>>>> master
